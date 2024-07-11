@@ -55,6 +55,4 @@ if st.button("Predict Price"):
     prediction = model.predict(input_data)
     st.write(f"Predicted Price: {prediction[0]:.2f}")
 
-# Run the Streamlit app
-if __name__ == "__main__":
-    st.run()
+

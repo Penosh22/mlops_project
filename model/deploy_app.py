@@ -6,6 +6,7 @@ from sklearn.pipeline import Pipeline
 import pickle
 # Load the dataset to get unique values for dropdowns
 df_loaded = pd.read_csv("model/df_loaded.csv")  # Adjust this path to your dataset
+
 # Create a dictionary to hold unique values for each feature
 unique_values = {
     "brand": df_loaded["brand"].unique().tolist(),
@@ -17,8 +18,10 @@ unique_values = {
     "ram": df_loaded["ram"].unique().tolist(),
     "rom": df_loaded["rom"].unique().tolist()
 }
+
 # Streamlit app
 st.title("Laptop Price Prediction")
+
 # Create dropdowns for each feature except ratings
 brand = st.selectbox("Brand", unique_values["brand"])
 display = st.selectbox("Display", unique_values["display"])
@@ -28,6 +31,7 @@ ram_type = st.selectbox("RAM Type", unique_values["ram_type"])
 rom_type = st.selectbox("ROM Type", unique_values["rom_type"])
 ram = st.selectbox("RAM", unique_values["ram"])
 rom = st.selectbox("ROM", unique_values["rom"])
+
 # Manual input for ratings
 ratings = st.number_input("Ratings", min_value=0.0, max_value=5.0, step=0.01)
 with open('model/model.pkl', 'rb') as file:
@@ -50,3 +54,5 @@ if st.button("Predict Price"):
     # Make prediction
     prediction = model.predict(input_data)
     st.write(f"Predicted Price: {prediction[0]:.2f}")
+
+

@@ -16,8 +16,8 @@ flavors:
     sklearn_version: 1.3.0
 mlflow_version: 2.11.3
 model_size_bytes: 306385
-model_uuid: 3ae22eadbfb648ec8145322c887e4c5d
-run_id: 7b51ad1723ae4e0088be8a45b1e68bba
+model_uuid: eaf91673f8a04870b20e013fb2654dc2
+run_id: 6e881abac805472199d6c89a57175683
 saved_input_example_info:
   artifact_path: input_example.json
   pandas_orient: split
@@ -32,4 +32,4 @@ signature:
     "required": false}]'
   outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1]}}]'
   params: null
-utc_time_created: '2024-07-11 20:18:21.422047'
+utc_time_created: '2024-07-11 20:26:53.094798'

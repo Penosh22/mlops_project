@@ -34,8 +34,8 @@ rom = st.selectbox("ROM", unique_values["rom"])
 
 # Manual input for ratings
 ratings = st.number_input("Ratings", min_value=0.0, max_value=5.0, step=0.01)
-with open('model.pkl', 'rb') as file:
-            model = pickle.load(file)
+with open('model/model.pkl', 'rb') as file:
+    model = pickle.load(file)
 # Predict button
 if st.button("Predict Price"):
     # Create a dataframe with the input values

@@ -55,6 +55,9 @@ jobs:
       - name: Unzip artifact for deployment
         run: unzip release.zip
 
+      - name: Wait for 30 seconds to avoid conflicts
+        run: sleep 30s
+
       - name: Login to Azure
         uses: azure/login@v2
         with:
@@ -62,9 +65,10 @@ jobs:
           tenant-id: ${{ secrets.AZUREAPPSERVICE_TENANTID_4DEEA93F3EBE4EBEA53B6D8D54006A25 }}
           subscription-id: ${{ secrets.AZUREAPPSERVICE_SUBSCRIPTIONID_1190DD119F564E80AA6FFB8F32A99D7C }}
 
-      - name: 'Deploy to Azure Web App'
+      - name: Deploy to Azure Web App
         uses: azure/webapps-deploy@v3
         id: deploy-to-webapp
         with:
           app-name: 'penoshwebapp'
           slot-name: 'Production'
+          package: release.zip

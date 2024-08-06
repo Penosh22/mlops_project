@@ -15,9 +15,9 @@ flavors:
     serialization_format: cloudpickle
     sklearn_version: 1.3.0
 mlflow_version: 2.11.3
-model_size_bytes: 124647
-model_uuid: 6aca98ed844d4306a7eed3751e7bf055
-run_id: 422c515c20ed4caba8863219c254a44b
+model_size_bytes: 124645
+model_uuid: e0b3bd8d200344b0a9f91214e2444d2a
+run_id: bae2749279d84bbaa3aee7657e0a7e2f
 saved_input_example_info:
   artifact_path: input_example.json
   pandas_orient: split
@@ -32,4 +32,4 @@ signature:
     "required": true}]'
   outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1]}}]'
   params: null
-utc_time_created: '2024-08-06 09:20:45.822542'
+utc_time_created: '2024-08-06 09:47:59.841931'

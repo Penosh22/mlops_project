@@ -1,1 +1,1 @@
-{"columns": ["ratings", "processor", "ram", "operating_system", "rom", "display", "brand", "ram_type", "rom_type"], "data": [[4.349999904632568, "intel core i5  (13th gen)", "16", "windows 11", "512", "14 ", "acer", "lpddr5", "ssd"]]}
+{"columns": ["ratings", "processor", "ram", "operating_system", "rom", "display", "brand", "ram_type", "rom_type"], "data": [[3.759999990463257, "intel celeron dual core  (11th gen)", "8", "64 bit windows 11", "256", "15.6 ", "chuwi", "ddr4", "ssd"]]}

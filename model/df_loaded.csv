@@ -107,3 +107,10 @@ ratings,price,processor,ram,operating_system,rom,display,brand,ram_type,rom_type
 4.39,88990.0,intel core i7  (13th gen),16,windows 11,512,15.6 ,colorful,ddr5,ssd
 4.25,49999.0,intel core i5  (11th gen),16,windows 11,512,15.6 ,lenovo,ddr4,ssd
 4.45,46540.0,amd ryzen 5 hexa core ,8,64 bit dos,512,14 ,lenovo,ddr4,ssd
+4.42,40990.0,amd ryzen 7 octa core ,16,64 bit windows 11 home,512,15.6 ,lenovo,ddr4,ssd
+4.33,32990.0,intel core i3  (12th gen),8,windows 11,512,15.6 ,asus,ddr4,ssd
+4.21,34990.0,intel core i3  (12th gen),8,64 bit windows 11,512,15.6 ,dell,ddr4,ssd
+4.34,52990.0,intel core i5  (12th gen),8,windows 11,512,15.6 ,hp,ddr4,ssd
+4.13,24749.0,amd athlon dual core ,8,64 bit windows 11,256,14 ,hp,ddr4,ssd
+451.0,31790.0,intel core i3  (12th gen),8,dos,512,15.6 ,lenovo,ddr4,ssd
+4.41,45990.0,amd ryzen 5 quad core ,8,windows 11,512,15.6 ,asus,lpddr5,ssd

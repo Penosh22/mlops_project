@@ -15,21 +15,21 @@ flavors:
     serialization_format: cloudpickle
     sklearn_version: 1.3.0
 mlflow_version: 2.11.3
-model_size_bytes: 166780
-model_uuid: 48d11d0deebf4ac5ae3050ebe1637d8a
-run_id: e08c4d34f33343d284dc2273b02002c8
+model_size_bytes: 402894
+model_uuid: 7cce9237ae8246ff92ae04f71d6bbbb0
+run_id: c709e803f1bf46f2bb94a45f575c762c
 saved_input_example_info:
   artifact_path: input_example.json
   pandas_orient: split
   type: dataframe
 signature:
-  inputs: '[{"type": "float", "name": "ratings", "required": true}, {"type": "string",
+  inputs: '[{"type": "float", "name": "ratings", "required": false}, {"type": "string",
     "name": "processor", "required": true}, {"type": "string", "name": "ram", "required":
     true}, {"type": "string", "name": "operating_system", "required": true}, {"type":
-    "string", "name": "rom", "required": true}, {"type": "string", "name": "display",
+    "string", "name": "rom", "required": false}, {"type": "string", "name": "display",
     "required": true}, {"type": "string", "name": "brand", "required": true}, {"type":
     "string", "name": "ram_type", "required": true}, {"type": "string", "name": "rom_type",
-    "required": true}]'
+    "required": false}]'
   outputs: '[{"type": "tensor", "tensor-spec": {"dtype": "float32", "shape": [-1]}}]'
   params: null
-utc_time_created: '2024-07-14 08:33:18.611106'
+utc_time_created: '2024-08-06 00:05:12.146619'

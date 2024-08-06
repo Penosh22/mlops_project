@@ -1,9 +1,100 @@
 ratings,price,processor,ram,operating_system,rom,display,brand,ram_type,rom_type
+4.23,33990.0,intel core i3  (12th gen),8,windows 11,512,15.6 ,hp,ddr4,ssd
+4.23,33990.0,intel core i3  (12th gen),8,windows 11,512,15.6 ,hp,ddr4,ssd
+4.71,71990.0,apple m1 ,8,mac os,256,13.3 ,apple,ddr4,ssd
+3.87,27990.0,intel core i5  (11th gen),8,windows 11,512,15.6 ,zebronics,lpddr4x,ssd
+4.27,37471.0,intel core i5  (12th gen),8,windows 11,512,14 ,msi,ddr4,ssd
+4.21,28990.0,amd athlon dual core ,8,windows 11,512,15.6 ,lenovo,lpddr5,ssd
+3.87,27990.0,intel core i5  (11th gen),8,windows 11,512,15.6 ,zebronics,lpddr4x,ssd
+4.13,26890.0,amd ryzen 3 dual core ,8,windows 11,512,15.6 ,hp,ddr4,ssd
+4.29,29990.0,amd ryzen 3 quad core ,8,windows 11,512,39.62 cm,lenovo,lpddr5,ssd
+3.93,30990.0,intel core i5  (12th gen),8,windows 11,512,15.6 ,zebronics,ddr4,ssd
+4.71,71990.0,apple m1 ,8,mac os,256,13.3 ,apple,ddr4,ssd
+3.51,13990.0,intel celeron dual core  (10th gen),4,software,128,11.6 ,chuwi,lpddr4,ssd
+4.13,26890.0,amd ryzen 3 dual core ,8,windows 11,512,15.6 ,hp,ddr4,ssd
+4.29,29990.0,amd ryzen 3 quad core ,8,windows 11,512,39.62 cm,lenovo,lpddr5,ssd
+4.31,35490.0,amd ryzen 5 hexa core ,8,windows 11,512,14 ,msi,ddr4,ssd
+4.26,28990.0,intel core i3  (11th gen),8,64 bit windows 11,512,14 ,acer,ddr4,ssd
+4.21,38890.0,intel core i3  (12th gen),8,64 bit windows 11,512,15.6 ,dell,ddr4,ssd
+3.51,13990.0,intel celeron dual core  (10th gen),4,software,128,11.6 ,chuwi,lpddr4,ssd
+4.31,34400.0,intel core i3  (12th gen),8,64 bit windows 11,512,15.6 ,hp,ddr4,ssd
+4.23,32490.0,amd ryzen 3 quad core ,8,64 bit windows 11,512,15.6 ,hp,ddr4,ssd
+4.13,65990.0,intel core i5  (13th gen),16,windows 11,512,16 ,lenovo,lpddr5,ssd
+4.11,62990.0,intel core i5  (12th gen),16,windows 11,512,14 ,lenovo,lpddr5,ssd
+4.11,36990.0,intel core i3  (12th gen),8,windows 11,512,15.6 ,hp,ddr4,ssd
+3.93,30990.0,intel core i5  (12th gen),8,windows 11,512,15.6 ,zebronics,ddr4,ssd
 3.91,19985.0,amd athlon dual core ,4,dos,256,15.6 ,hp,ddr4,ssd
-4.21,37990.0,intel core i3  (12th gen),8,windows 11,512,39.62 cm,lenovo,ddr4,ssd
-4.41,54980.0,amd ryzen 5 quad core ,16,windows 11,512,15.6 ,asus,lpddr5,ssd
-3.82,20499.0,intel core i5  (10th gen),8,windows 11,512,14.1 ,ultimus,ddr4,ssd
-4.21,37990.0,intel core i3  (12th gen),8,windows 11,512,39.62 cm,lenovo,ddr4,ssd
-4.21,37990.0,intel core i3  (12th gen),8,windows 11,512,39.62 cm,lenovo,ddr4,ssd
-4.21,37990.0,intel core i3  (12th gen),8,windows 11,512,39.62 cm,lenovo,ddr4,ssd
+,22990.0,intel celeron dual core  (4th gen),8,64 bit windows 11,256,15.6 ,lenovo,ddr4,ssd
+3.74,18990.0,intel celeron dual core  (11th gen),8,64 bit windows 11,256,15.6 ,chuwi,ddr4,ssd
+4.66,58750.0,intel core i5  (13th gen),16,windows 11,512,15.6 ,lenovo,lpddr5,ssd
+4.35,65990.0,intel core i5  (13th gen),16,windows 11,512,14 ,acer,lpddr5,ssd
+3.74,16990.0,intel celeron dual core  (11th gen),8,"wps office,  software",256,14.1 ,chuwi,ddr4,ssd
+3.83,17036.0,intel celeron dual core  (9th gen),4,windows 11,256,15.6 ,axl,ddr4,ssd
+4166.0,21990.0,intel celeron quad core  (12th gen),8,"wps office,  software",256,15.6 ,chuwi,lpddr5,ssd
+3.91,24990.0,intel core i5  (10th gen),16,"wps office,  software",512,14 ,chuwi,ddr4,ssd
+4.76,93990.0,apple m2 ,8,mac os,256,13.6 ,apple,unified,ssd
+4.34,31990.0,intel core i3  (12th gen),8,windows 11,512,14 ,msi,ddr4,ssd
+4.21,38890.0,intel core i3  (12th gen),8,64 bit windows 11,512,15.6 ,dell,ddr4,ssd
+4.31,34400.0,intel core i3  (12th gen),8,64 bit windows 11,512,15.6 ,hp,ddr4,ssd
+3.93,30990.0,intel core i5  (12th gen),8,windows 11,512,15.6 ,zebronics,ddr4,ssd
+4.23,32490.0,amd ryzen 3 quad core ,8,64 bit windows 11,512,15.6 ,hp,ddr4,ssd
+4.26,28990.0,intel core i3  (11th gen),8,64 bit windows 11,512,14 ,acer,ddr4,ssd
+4.43,26990.0,intel celeron dual core ,8,chrome,,14 ,asus,lpddr4x,
+4.33,58000.0,intel core i3  (13th gen),8,windows 11,512,14 ,lenovo,lpddr4x,ssd
+4.43,105990.0,intel core i7  (13th gen),16,windows 11,512,15.6 ,asus,lpddr5,ssd
+4.62,43990.0,intel core i5  (12th gen),8,windows 11,512,16 ,lenovo,ddr4,ssd
+3.93,30990.0,intel core i5  (12th gen),8,windows 11,512,15.6 ,zebronics,ddr4,ssd
+,22990.0,intel celeron dual core  (4th gen),8,64 bit windows 11,256,15.6 ,lenovo,ddr4,ssd
 3.91,19985.0,amd athlon dual core ,4,dos,256,15.6 ,hp,ddr4,ssd
+4.11,36990.0,intel core i3  (12th gen),8,windows 11,512,15.6 ,hp,ddr4,ssd
+4.35,65990.0,intel core i5  (13th gen),16,windows 11,512,14 ,acer,lpddr5,ssd
+4.14,27990.0,amd ryzen 3 dual core ,8,windows 11,512,14 ,hp,ddr4,ssd
+3.74,16990.0,intel celeron dual core  (11th gen),8,"wps office,  software",256,14.1 ,chuwi,ddr4,ssd
+3.91,24990.0,intel core i5  (10th gen),16,"wps office,  software",512,14 ,chuwi,ddr4,ssd
+4.76,93990.0,apple m2 ,8,mac os,256,13.6 ,apple,unified,ssd
+4.33,37490.0,amd ryzen 5 hexa core ,8,64 bit windows 11,512,15.6 ,hp,ddr4,ssd
+4.33,62990.0,amd ryzen 7 octa core ,8,windows 11,512,15.6 ,lenovo,ddr5,ssd
+4.12,24890.0,intel celeron dual core ,8,64 bit windows 11,256,14 ,lenovo,ddr4,ssd
+3.87,27990.0,intel core i5  (11th gen),8,windows 11,512,15.6 ,zebronics,lpddr4x,ssd
+3.51,13990.0,intel celeron dual core  (10th gen),4,software,128,11.6 ,chuwi,lpddr4,ssd
+3.62,22990.0,intel celeron dual core  (4th gen),8,64 bit dos,256,15.6 ,lenovo,ddr4,ssd
+4.41,125990.0,intel core i7  (13th gen),16,windows 11,1,16 ,asus,ddr5,ssd
+3.93,30990.0,intel core i5  (12th gen),8,windows 11,512,15.6 ,zebronics,ddr4,ssd
+4.13,65990.0,intel core i5  (13th gen),16,windows 11,512,16 ,lenovo,lpddr5,ssd
+460.0,51990.0,intel core i5  (13th gen),16,windows 11,512,15.6 ,msi,ddr4,ssd
+3.79,12990.0,intel celeron dual core ,4,windows 11,128,14.1 ,walker,lpddr4,ssd
+4.52,76990.0,amd ryzen 7 octa core ,16,windows 11,1,14 ,asus,lpddr4x,ssd
+4.46,124990.0,intel core i7  (13th gen),16,windows 11,1,16 ,acer,ddr5,ssd
+4.11,62990.0,intel core i5  (12th gen),16,windows 11,512,14 ,lenovo,lpddr5,ssd
+3.74,18990.0,intel celeron dual core  (11th gen),8,64 bit windows 11,256,15.6 ,chuwi,ddr4,ssd
+,28490.0,intel celeron dual core ,8,windows 11,512,15.6 ,lenovo,ddr4,ssd
+3.82,69100.0,intel core i5  (12th gen),16,64 bit windows 11,512,15.6 ,asus,ddr4,ssd
+4.66,58750.0,intel core i5  (13th gen),16,windows 11,512,15.6 ,lenovo,lpddr5,ssd
+3.83,17036.0,intel celeron dual core  (9th gen),4,windows 11,256,15.6 ,axl,ddr4,ssd
+4.39,104990.0,intel core i7  (12th gen),16,windows 11,512,15.6 ,msi,ddr4,ssd
+4.37,23490.0,intel celeron dual core ,8,32 bit windows 11 home,256,15.6 ,hp,ddr4,ssd
+4.46,67499.0,intel core i5  (12th gen),16,64 bit windows 11,512,15.6 ,acer,ddr4,ssd
+4.21,49990.0,intel core i5  (11th gen),8,windows 11,512,15.6 ,dell,ddr4,ssd
+3.87,27990.0,intel core i5  (11th gen),8,windows 11,512,15.6 ,zebronics,lpddr4x,ssd
+3.51,13990.0,intel celeron dual core  (10th gen),4,software,128,11.6 ,chuwi,lpddr4,ssd
+4.24,29990.0,intel core i3  (10th gen),8,64 bit windows 11,256,15.6 ,infinix,lpddr4x,ssd
+3.74,18990.0,intel celeron dual core  (11th gen),8,64 bit windows 11,256,15.6 ,chuwi,ddr4,ssd
+3.93,30990.0,intel core i5  (12th gen),8,windows 11,512,15.6 ,zebronics,ddr4,ssd
+4.13,65990.0,intel core i5  (13th gen),16,windows 11,512,16 ,lenovo,lpddr5,ssd
+4.31,69999.0,intel core i5  (12th gen),16,windows 11,1,15.6 ,hp,ddr4,ssd
+4.18,23990.0,intel core i3  (11th gen),8,windows 11,256,15.6 ,wings,ddr4,ssd
+3.82,29990.0,intel core i5  (10th gen),8,windows 11,512,14.1 ,ultimus,ddr4,ssd
+3.91,19990.0,intel celeron dual core ,4,64 bit chrome,,14 ,hp,lpddr4,
+4.11,62990.0,intel core i5  (12th gen),16,windows 11,512,14 ,lenovo,lpddr5,ssd
+4.66,58750.0,intel core i5  (13th gen),16,windows 11,512,15.6 ,lenovo,lpddr5,ssd
+4.39,108990.0,intel core ultra 9 ,32,windows 11,1,14 ,lenovo,lpddr5x,ssd
+4.11,53990.0,intel core i5  (13th gen),8,64 bit windows 11,512,15.6 ,dell,ddr4,ssd
+3.83,17036.0,intel celeron dual core  (9th gen),4,windows 11,256,15.6 ,axl,ddr4,ssd
+3.91,24990.0,intel core i5  (10th gen),16,"wps office,  software",512,14 ,chuwi,ddr4,ssd
+3.62,20990.0,amd athlon dual core ,4,windows 11,256,15.6 ,hp,ddr4,ssd
+4.31,52990.0,amd ryzen 7 octa core ,16,64 bit windows 11,512,15.6 ,asus,ddr4,ssd
+4.28,48990.0,intel core i7  (12th gen),8,windows 11,512,14 ,msi,ddr4,ssd
+4.17,48990.0,intel core i5  (12th gen),8,windows 11,512,15.6 ,asus,ddr4,ssd
+4166.0,21990.0,intel celeron quad core  (12th gen),8,"wps office,  software",256,15.6 ,chuwi,lpddr5,ssd
+4.11,37990.0,intel core i3  (12th gen),12,software,512,13.5 ,chuwi,lpddr4,ssd
+4.21,30990.0,intel core i3  (12th gen),8,64 bit windows 11,256,14 ,acer,ddr4,ssd

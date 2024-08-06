@@ -1,1 +1,1 @@
-{"columns": ["ratings", "processor", "ram", "operating_system", "rom", "display", "brand", "ram_type", "rom_type"], "data": [[4.210000038146973, "intel core i3  (12th gen)", "8", "windows 11", "512", "39.62 cm", "lenovo", "ddr4", "ssd"]]}
+{"columns": ["ratings", "processor", "ram", "operating_system", "rom", "display", "brand", "ram_type", "rom_type"], "data": [[4.130000114440918, "intel core i5  (13th gen)", "16", "windows 11", "512", "16 ", "lenovo", "lpddr5", "ssd"]]}

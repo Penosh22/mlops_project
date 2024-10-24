@@ -29,7 +29,7 @@ The primary objective of this project is to build a machine learning model that 
   - Deployed the best-performing model using **Azure Web App Services** for real-time predictions.
   
 - **Monitoring & Retraining**:
-  - Daily monitoring of data drift using **Azure Monitor** and **Databricks**.
+  - Daily monitoring of data drift using **Azure Dataflow** and **Databricks**.
   - Automated retraining pipeline to maintain high accuracy over time.
 
 ---
@@ -37,10 +37,9 @@ The primary objective of this project is to build a machine learning model that 
 ## 🛠️ Technologies Used
 
 - **Languages**: Python
-- **Libraries**: Pandas, Scikit-learn, TensorFlow, MLflow, BeautifulSoup, Requests
-- **Cloud Services**: Azure Data Lake, Azure Databricks, Azure ML, Azure Monitor, Azure Web Apps
-- **MLOps Tools**: Azure DevOps, MLflow, Docker
-
+- **Libraries**: Pandas, Scikit-learn MLflow, BeautifulSoup, Requests
+- **Cloud Services**: Azure Data Lake, Azure Databricks, Function Apps, Azure Datafloe, Azure Web Apps
+- **MLOps Tools**: Azure DevOps, MLflow, Github
 ---
 
 ## ⚙️ Setup Instructions
@@ -48,57 +47,16 @@ The primary objective of this project is to build a machine learning model that 
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/laptop-fare-price-predictions.git
-cd laptop-fare-price-predictions
+git clone https://github.com/Penosh22/mlops_project.git
+cd mlops_project
 ```
 
 ### 2. Install Dependencies
 
-This project uses `Poetry` for dependency management. Install Poetry and run:
-
-```bash
-poetry install
-```
-
-Or, if you use `pip`:
+use `pip`:
 
 ```bash
 pip install -r requirements.txt
-```
-
-### 3. Configure Environment Variables
-
-Create a `.env` file in the root directory and set up your Azure, OpenAI, and other API credentials:
-
-```bash
-AZURE_STORAGE_CONNECTION_STRING=your_azure_connection_string
-OPENAI_API_KEY=your_openai_api_key
-```
-
-### 4. Running the Project
-
-To run the project and make predictions, use:
-
-```bash
-python app.py
-```
-
----
-
-## 🔍 Project Structure
-
-```
-├── data/                   # Raw and processed data files
-├── notebooks/              # Jupyter notebooks for exploration and development
-├── src/                    # Main source code for the model and data pipeline
-│   ├── data_preprocessing.py
-│   ├── model_training.py
-│   ├── prediction_service.py
-│   └── ...
-├── .env                    # Environment variables
-├── pyproject.toml          # Project dependencies and configurations (Poetry)
-├── Dockerfile              # Docker configuration
-└── README.md               # Project documentation
 ```
 
 ---
@@ -106,8 +64,7 @@ python app.py
 ## 🧠 Model Performance
 
 - **Best Model**: XGBoost Regressor
-- **Accuracy**: 92% (R2 Score)
-- **Mean Absolute Error**: 120 USD
+- **MAPE**: 0.17
 
 ---
 
@@ -119,19 +76,6 @@ python app.py
 
 ---
 
-## 🏆 Contributors
-
-- **Babu Penosh Gorla** – Data Scientist, MLOps Expert
-- **Brahmi Rathod** – ML Engineer
-- **Harshavardhan Rimmanpudi** – Cloud Engineer
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 📞 Contact
 
